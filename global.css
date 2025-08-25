@@ -1,0 +1,16 @@
+:root {
+  --font-family: 'Poppins', sans-serif;
+  --text: 400 1rem var(--font-family);
+  --text-sm: 400 0.875rem/1.4 var(--font-family);
+
+--text-primary: #292524;
+--text-secundary: #57534e;
+--text-tertiary: #8f8881;
+--text-hightlight: #e43a12;
+
+--surface-primary: #ffffff;
+--suface-secundary: #fee7d6;
+
+--stroke-default: #d6d3d1;
+--stroke-hightlight: #f3541c;
+--semantic-error: #DC2626;
